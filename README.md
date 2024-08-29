@@ -18,7 +18,7 @@ A simple and responsive weather website that provides real-time weather informat
 
 ## How to Use
 
-1. Clone the repository:
+1. Access the repository:
 
-   ```bash
-   git clone https://github.com/your-username/weather-website.git
+   
+   https://github.com/prasad5812345/Weather-Website/tree/main
