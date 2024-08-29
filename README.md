@@ -14,7 +14,7 @@ A simple and responsive weather website that provides real-time weather informat
 
 ## Screenshots
 
-![Weather Website Screenshot]([https://your-screenshot-link.com](https://github.com/prasad5812345/Weather-Website/blob/main/images/output.png))
+![Weather Website Screenshot](https://github.com/prasad5812345/Weather-Website/blob/main/images/output.png)
 
 ## How to Use
 
